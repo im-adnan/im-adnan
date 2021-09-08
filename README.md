@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 🌍 I'm Syed Mohd Adnan 👋</h1>
-<h3 align="center">I am a Flutter & Front End Enthusiast from India</h3>
+<h3 align="center">I am a Flutter & App Development Enthusiast from India</h3>
 
 
 
