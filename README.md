@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 🌍 I'm Syed Mohd Adnan 👋</h1>
-<h3 align="center">I am a Student & App Development Enthusiast from India</h3>
+<h3 align="center">I am a Computer Science Student from India</h3>
 
 
 
 - 🔭 I’m currently working on developing Mobile Application for [vocalcode.co.in](VocalCode)
 
-- 🌱 I’m currently *learning*  flutter**, **Python(django)
+- 🌱 I’m currently *learning*  **flutter**, **Python(django)**
 
 - 📫 How to reach me **https://linktr.ee/imadnan**
 
