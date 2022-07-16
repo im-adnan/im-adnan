@@ -1,21 +1,14 @@
 <h1 align="center">Hello World 🌍 I'm Syed Mohd Adnan 👋</h1>
-<h3 align="center">I am a Flutter & App Development Enthusiast from India</h3>
+<h3 align="center">I am a Student & App Development Enthusiast from India</h3>
 
 
 
 - 🔭 I’m currently working on developing Mobile Application for [vocalcode.co.in](VocalCode)
 
-- 🌱 I’m currently *learning* **Python(django), flutter**
-
-- 👯 I’m looking to collaborate **with other backend developers**
-
-- 🤝 I’m looking forward to learn **swift & database**
-
-- 💬 Ask me about **flutter**
+- 🌱 I’m currently *learning*  flutter**, **Python(django)
 
 - 📫 How to reach me **https://linktr.ee/imadnan**
 
-- ⚡ Fun fact **I like to advocate for Open-source and will contribute to in future**
 
 
 <h3 align="center">Languages and Tools:</h3>
