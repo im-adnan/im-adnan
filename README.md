@@ -16,7 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart                1,215 hrs 57 mins     ████████████████░░░░░░░░░   64.55 %
+JavaScript          206 hrs 9 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+TypeScript          175 hrs 44 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Python              96 hrs 7 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+JSON                33 hrs 35 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
