@@ -21,6 +21,10 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<p align="center">
+  <img src="https://wakatime.com/share/@68a0c04c-c249-41f6-acf7-7c021d9541c5/981a5ea8-6b70-4d27-8c8e-ae500f699ec4.svg" alt="WakaTime Languages" />
+</p>
+
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
