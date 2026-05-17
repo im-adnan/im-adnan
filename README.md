@@ -1,26 +1,26 @@
 <h1 align="center">Hello World 🌍 I'm Syed Mohd Adnan 👋</h1>
-<h3 align="center">I am a Computer Science Student from India</h3>
+<h3 align="center">I'm a self-taught developer from India 🇮🇳</h3>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
-- 🔭 I’m currently working on developing Mobile Application for [vocalcode.co.in](VocalCode)
-
-- 🌱 I’m currently *learning*  **flutter**, **Python(django)**
-
-- 🤝 I’m looking forward to learn **database**
-
-- 📫 How to reach me **https://linktr.ee/imadnan**
+<h3>Where to find me</h3>
+<p><a href="https://github.com/im-adnan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/1m_adnan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/imadnan/flutter-inputchips-inside-textformfield-fo2" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+</p>
 
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/195px-Django_logo.svg.png" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+<h3 align="center">Languages and Tools</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
-*NOTE: These languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-adnan&show_icons=true&locale=en&l" alt="im-adnan" /></p>
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=im-adnan&" alt="im-adnan" /></p>
+<a href="https://www.buymeacoffee.com/imadnan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-adnan&" alt="im-adnan" /></p>
