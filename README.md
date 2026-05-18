@@ -2,8 +2,14 @@
 # <p align="center">Hi there, I'm Syed Mohd Adnan 👋</p>
 
 <p align="center">
-  <samp>Self-taught Developer | Open Source Enthusiast | Flutter Specialist</samp>
+  <samp> Full-Stack Developer | Product Designer | Open Source Enthusiast </samp>
 </p>
+
+---
+
+## 🚀 About Me
+
+I am a self-taught developer from the <i><b>Republic of</i> INDIA 🇮🇳</b><br> I started my journey with a curiosity for how things work and fell in love with coding. I spend  my time building apps or contributing to open-source projects. I believe in continuous learning and sharing knowledge with the community.
 
 ---
 
@@ -11,36 +17,19 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <p>I love connecting with people and building things that make a difference.<br> Let's build something amazing together!</p>
-      <p><i>"The true revolutionary is guided by a great feeling of love."</i><br>— <b>Che Guevara</b></p>
+      I love connecting with people and building things that make a difference.<br> Let's build something amazing together!<br><br>
+      <i>"The true revolutionary is guided by a great feeling of love."</i><br>— <b>Che Guevara</b>
     </td>
     <td align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg2anFvM2NiNmRxYTE0YW1rbjZyZDMwbmhhNXVpNTNoMWRnZzFjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5CDDxLUswTI08/giphy.gif" width="180">
-      <br><br>
-      <a href="https://dev.to/imadnan/flutter-inputchips-inside-textformfield-fo2" target="_blank">
-        <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" />
-      </a>
-      <a href="https://x.com/1m_adnan" target="_blank">
-        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-      </a>
-      <br>
-      <a href="https://discord.com" target="_blank">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-im__adnan-7289DA?style=for-the-badge" />
-      </a>
-      <br>
-      <a href="https://adnan-s.pages.dev/" target="_blank">
-        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge" />
-      </a>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGg2anFvM2NiNmRxYTE0YW1rbjZyZDMwbmhhNXVpNTNoMWRnZzFjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5CDDxLUswTI08/giphy.gif" width="180"><br>
+      <a href="https://dev.to/imadnan/flutter-inputchips-inside-textformfield-fo2" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+      <a href="https://x.com/1m_adnan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
+      <a href="https://discord.com" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-im__adnan-7289DA?style=for-the-badge" /></a><br>
+      <a href="https://adnan-s.pages.dev/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge" /></a>
     </td>
   </tr>
 </table>
 </div>
-
----
-
-## 🚀 About Me
-
-I am a self-taught developer from the Republic of India 🇮🇳<br> I started my journey with a curiosity for how things work and fell in love with coding. I spend  my time building apps or contributing to open-source projects. I believe in continuous learning and sharing knowledge with the community.
 
 ---
 
