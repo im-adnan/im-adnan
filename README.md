@@ -80,13 +80,20 @@ I am a self-taught developer from the <i><b>Republic of</i> INDIA 🇮🇳</b><b
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
+
 ```txt
-Dart                1,215 hrs 57 mins     ████████████████░░░░░░░░░   64.55 %
-JavaScript          206 hrs 9 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-TypeScript          175 hrs 44 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Python              96 hrs 7 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-JSON                33 hrs 35 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Swift        3 hrs 42 mins         ██████████████▒░░░░░░░░░░   57.45 %
+TypeScript   1 hr 16 mins          █████░░░░░░░░░░░░░░░░░░░░   19.73 %
+Other        33 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+CSS          15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+JSON         15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Git Config   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Markdown     4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+JavaScript   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TSConfig     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+XML          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
